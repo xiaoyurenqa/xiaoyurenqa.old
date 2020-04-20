@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Little Thought in QA
+title: Xiaoyu Ren
 email: rxyjp2008@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A public diary for myself as a software QA engineer
+  My journey in technology and as a human being
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  xiaoyurenqa
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
